@@ -1,5 +1,8 @@
 *.class
 
+# PseudoCode #
+*.txt
+
 # Package Files #
 *.jar
 *.war
